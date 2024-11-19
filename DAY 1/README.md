@@ -57,4 +57,4 @@ The program takes the input word and simply repeats it, inserting a space betwee
 #### **Instructions**  
 - Print the word twice, with a single space between them.  
 
-This problem is a great warm-up to get comfortable with input and output in programming. Good luck! 🚀
+**Good luck!!** 🚀
